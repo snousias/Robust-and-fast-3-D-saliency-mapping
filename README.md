@@ -1,7 +1,7 @@
 # 3D saliency based on sparse modelling and curvature flow
 
 
-## Disclaimer
+## Description
 This repository contains an implementation of "Robust and fast 3-D saliency mapping" proposed by Gerasimos Arvanitis, Aris Lalos and konstantinos Moustakas.
 The presented method was implemented in python by [Stavros Nousias](https://github.com/snousias) 
 
